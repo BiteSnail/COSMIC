@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Login = (): any => {
+const Login = (): React.ReactElement => {
   return <div>안녕하세요?</div>;
 };
 
